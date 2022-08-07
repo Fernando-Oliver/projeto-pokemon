@@ -2,7 +2,7 @@
 
 Esse projeto foi desenvolvido na semana da MapaDev Week, junto com Roberto e Ricardo Dias.
 
-O objetivo era fazer com que a interface do site ficasse apresentando as cartas dos pokémons, para mudar as cartas aperte na seta do lado direito, e para voltar a seta do lado esquerdo, todas as cartas contem um HP(valor de vida) e descrição sobre o o personagem.
+O objetivo era fazer com que a interface do site ficasse apresentando as cartas dos pokémons, para mudar as cartas aperte na seta do lado direito, e para voltar a seta do lado esquerdo, todas as cartas contem um HP(valor de vida) e descrição sobre o personagem.
 
  Projeto final
   
